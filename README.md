@@ -10,7 +10,7 @@ Project consists of a simple excercise where I used a VirtualBox to setup a basi
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>VirtualBox</b>
 
 <h2>Environments Used </h2>
 
